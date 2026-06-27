@@ -1,0 +1,10 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+0,Dataset original,8160,753,100.0
+1,Eliminación de duplicados exactos,8034,753,98.46
+2,Unificación de user_id duplicados,8000,743,98.04
+3,Normalización de categóricas,8000,743,98.04
+4,Valores imposibles a NaN,8000,1039,98.04
+5,Imputación de faltantes,8000,315,98.04
+6,Parseo de last_login_date,8000,457,98.04
+7,Fechas futuras imposibles a NaT,8000,472,98.04
+8,Derivación de dias_desde_login,8000,944,98.04
