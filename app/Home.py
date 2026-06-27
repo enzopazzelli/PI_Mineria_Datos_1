@@ -12,7 +12,7 @@ st.header("Análisis de Usuarios de Streaming")
 st.markdown("""
 
 - Integrantes: *Enzo Pazzelli*, *Nombre 2*
-- Comisión: *Sede Nodo - Turno Tarde*  ·  Fecha: *__/06/2026*
+- Comisión: *Sede Nodo - Turno Tarde*  ·  Fecha: *27/06/2026*
 - Repositorio: [GitHub](https://github.com/enzopazzelli/PI_Mineria_Datos_1)
 """)
 st.divider()
