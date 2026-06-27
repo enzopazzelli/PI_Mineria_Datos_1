@@ -3,7 +3,7 @@
 ## 1. Información general
 - Enzo Pazzelli
 - Comisión: Sede Nodo - Turno Tarde
-- Fecha: 28/06/2026
+- Fecha: 27/06/2026
 
 ## 2. Objetivo del proyecto
 Tomamos un dataset sucio de usuarios de una plataforma de streaming y lo preparamos para poder analizarlo. La idea fue limpiar los datos, explorarlos para responder algunas preguntas sobre el consumo, y ver si las variables
@@ -52,7 +52,7 @@ resumir las variables: están poco correlacionadas.
 Al proyectar en 2 componentes y colorear por plan, los grupos no se separan. El PCA confirma que no hay estructura escondida.
 
 ## 8. Visualización interactiva
-La app está en `app/` y se puede ver online acá: [link a Streamlit Cloud]
+La app está en `app/` y se puede ver online acá: [link a Streamlit Cloud](https://integrador-mineria-de-datos.streamlit.app/)
 
 ## 9. Cómo ejecutar localmente
 1. Crear y activar el entorno: `python -m venv .venv` → `.\.venv\Scripts\Activate.ps1`
