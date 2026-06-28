@@ -5,7 +5,7 @@ st.title("Conclusiones")
 st.subheader("Evidencia")
 st.markdown("""
 - El consumo crece con el plan (mediana 558 → 833 → 1081).
-- Edad, inactividad, país y tickets no se asocian con el consumo (r ≈ 0, dif. < 3%).
+- Edad, inactividad y tickets no se asocian con el consumo (r ≈ 0).
 - El PCA no reduce dimensionalidad (4 componentes ~25% c/u) ni separa perfiles.
 """)
 
@@ -18,7 +18,7 @@ st.markdown("""
 
 st.subheader("Conclusión / recomendación")
 st.markdown("""
-- **No segmentar campañas por edad ni país:** ninguna se asocia con el consumo.
+- **No segmentar campañas por edad:** no se asocia con el consumo.
 - **El consumo es el diferenciador real entre planes:** los usuarios Premium
   consumen casi el doble que los Básico; conviene apalancar ese dato en la
   propuesta de valor.
